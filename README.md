@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**wojciehm/wojciehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is my GitHub info.
 
 - 🔭 I’m currently working on - ELK stack and agregating logs across my home devices.
 - 🌱 I’m currently learning - Ansible
