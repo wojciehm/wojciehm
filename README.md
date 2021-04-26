@@ -10,3 +10,4 @@ This is my GitHub info.
 - 📫 How to reach me: If it is important you will find the way
 - 😄 Pronouns: ?
 - ⚡ Fun fact: A lot of them
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmojciehm)](https://github.com/anuraghazra/github-readme-stats)
