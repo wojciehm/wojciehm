@@ -2,7 +2,7 @@
 
 This is my GitHub info.
 
-- 🔭 I’m currently working on - finishing my book
+- 🔭 I’m currently working on - writing new blog posts on my blog
 - 🌱 I’m currently learning - Ansible
 - 👯 I’m looking to collaborate on - not really 
 - 🤔 I’m looking for help with - I don't know it yet
