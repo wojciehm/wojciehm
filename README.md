@@ -11,6 +11,6 @@ This is my GitHub info.
 - 😄 Pronouns: he/man
 - ⚡ Fun fact: A lot of them
 
-[![Anurag's GitHub stats](https://github-readme-stats-seven-beryl-53.vercel.app/api?username=wojciehm)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-seven-beryl-53.vercel.app/api?username=wojciehm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-seven-beryl-53.vercel.app/api/top-langs/?username=wojciehm)](https://github.com/anuraghazra/github-readme-stats)
